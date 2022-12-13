@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIGI-K-Assignment/static/css/main.8361b8c9.css",
+    "main.js": "/DIGI-K-Assignment/static/js/main.a50721fe.js",
+    "index.html": "/DIGI-K-Assignment/index.html",
+    "main.8361b8c9.css.map": "/DIGI-K-Assignment/static/css/main.8361b8c9.css.map",
+    "main.a50721fe.js.map": "/DIGI-K-Assignment/static/js/main.a50721fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8361b8c9.css",
+    "static/js/main.a50721fe.js"
+  ]
+}
